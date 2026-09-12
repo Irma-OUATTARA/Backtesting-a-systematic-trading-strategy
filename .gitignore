@@ -19,5 +19,5 @@ env/
 Thumbs.db
 .idea/
 .vscode/
-nootebooks/
+notebooks/
 data/
